@@ -1,0 +1,25 @@
+KARTECH ACADEMY — SITE COMPLETO
+
+Conteúdo: site responsivo (index.html), logo oficial, imagem da fachada, imagem da pista indoor e imagem do piloto. As artes de Stories foram deixadas de fora, conforme solicitado.
+
+COMO VISUALIZAR
+1. Extraia todo o ZIP para uma pasta.
+2. Abra index.html no navegador.
+
+COMO PUBLICAR NO NETLIFY
+1. Acesse https://app.netlify.com/drop
+2. Arraste a pasta Kartech_Academy_site para a página (ou compacte a pasta extraída, se a interface pedir).
+3. Mantenha index.html e a pasta assets juntos para que as imagens carreguem.
+
+COMO PUBLICAR PELO GITHUB
+Envie index.html e a pasta assets para o repositório. Depois, conecte o repositório ao Netlify.
+
+IMPORTANTE
+O formulário do site prepara uma mensagem de solicitação, mas não confirma reserva automaticamente. Confirme horários e preços com a equipe.
+
+
+Estrutura dos arquivos principais:
+- index.html: conteúdo e estrutura
+- style.css: visual e responsividade
+- script.js: funcionalidades interativas
+- assets/: imagens e logo
